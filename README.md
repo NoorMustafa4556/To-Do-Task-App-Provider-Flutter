@@ -41,7 +41,7 @@ The codebase is organized around **Separation of Concerns**, keeping:
 | Layer      | Technology |
 |------------|------------|
 | Framework  | Flutter    |
-| State Mgmt | Provider   |
+| State Management | Provider   |
 | Database   | SQFlite    |
 | Utilities  | intl, path |
 

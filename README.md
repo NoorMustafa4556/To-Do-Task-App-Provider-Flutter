@@ -47,37 +47,56 @@ The codebase is organized around **Separation of Concerns**, keeping:
 
 ---
 
-## 📂 Folder Structure
 
-
-lib/
-├── models/ # Data models
-├── providers/ # State management
-├── services/ # Database helper
-├── screens/ # UI screens
 
 
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter.git
-cd To-Do-Task-App-Provider-Flutter
+Follow these instructions to get a copy of the project up and running on your local machine.
 
+### Prerequisites
 
-2️⃣ Install Dependencies
+You need to have the Flutter SDK installed on your machine.
+- [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 
-flutter pub get
+### Installation
 
-3️⃣ Run the App
-
-flutter run
-
+1.  Clone the repository:
+    ```sh
+    git clone https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter.git
 
 
+2.  Navigate to the project directory:
+    ```sh
+    cd To-Do-Task-App-Provider-Flutter
+    ```
+3.  Install the dependencies:
+    ```sh
+    flutter pub get
+    ```
+4.  Run the app:
+    ```sh
+    flutter run
+    ```
+
+   ## 📦 Main Packages Used
+
+-   **provider:** For state management.
+
+-   **sqflite** – Local storage (SQLite).
+
+-   **path** – For database path.
+
+-   **intl** – Date formatting.
+
+-   **fluttertoast** – Notifications.
+
+-   **flutter_spinkit** – Loading indicators.
+
+---
 # 👋 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
@@ -177,7 +196,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ---
 
-> _“Learning never stops. Every app I build makes me a better developer — one widget at a time.”_
+
 
 ---
 

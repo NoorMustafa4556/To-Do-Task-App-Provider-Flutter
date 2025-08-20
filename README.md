@@ -1,4 +1,4 @@
-# 📝 Flutter To-Do Task App (Provider + SQFlite)
+# 📝 Flutter To-Do Task App (Provider + SQLlite)
 
 A **feature-rich offline To-Do List application** built with Flutter, using **Provider** for state management and **SQFlite** for local storage. Designed with **clean architecture** principles to ensure scalability, maintainability, and easy debugging.
 
@@ -24,7 +24,19 @@ The codebase is organized around **Separation of Concerns**, keeping:
 - **Safety** – Confirmation dialog before deleting tasks.
 
 ---
+<h2 align="center">📷 App Screenshots</h2>
 
+<p align="center">
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/1.png" width="30%"/>
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/2.png" width="30%"/>
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/3.png" width="30%"/>
+
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/4.png" width="30%"/>
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/5.png" width="30%"/>
+  <img src="https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter/blob/main/assets/images/6.png" width="30%"/>
+</p>
+
+---
 ## 🛠️ Tech Stack
 | Layer      | Technology |
 |------------|------------|

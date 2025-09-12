@@ -64,20 +64,20 @@ You need to have the Flutter SDK installed on your machine.
 
 ### Installation
 
-1.  Clone the repository:
+## 1.  Clone the repository:
     ```sh
     git clone https://github.com/NoorMustafa4556/To-Do-Task-App-Provider-Flutter.git
 
 
-2.  Navigate to the project directory:
+## 2.  Navigate to the project directory:
     ```sh
     cd To-Do-Task-App-Provider-Flutter
     ```
-3.  Install the dependencies:
+## 3.  Install the dependencies:
     ```sh
     flutter pub get
     ```
-4.  Run the app:
+  ## 4.  Run the app:
     ```sh
     flutter run
     ```
